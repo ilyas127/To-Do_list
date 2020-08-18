@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    margin: 10px;
+}
+.list{
+    /* margin: 0% 5px 0% 24%!important; */
+    border: 1px;
+    border-radius: 7px;
+    /* background-color: khaki; */
+    margin: 50px;
+}
+
+
+.div_two{
+    padding: 100px;
+    text-align: center;
+    text-transform: capitalize;
+    list-style: none;
+    
+}   
+
+
+ 
+ .btn{ 
+
+    border: 1px;
+    border-radius: 3px;
+    /* padding: 2px; */
+    margin: 2px;
+} 
+
+.list12{
+    margin: 0px 70px 0px 70px;
+    text-decoration: none!important;
+}
+
+.iq{
+    background-color:rebeccapurple !important;
+    /* margin-top: 100px; */
+    margin-right: 200px;
+}
